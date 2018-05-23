@@ -74,3 +74,6 @@ There are two ways to edit a todo.
  You should then be able to access the application at _localhost:4200_.
  
 The local environment by default is set to localhost a.k.a 127.0.0.1 with express running on port 3000, angular running on 4200, and          mongodb at 27017.
+
+## Credits
+Based on a tutorial from Noman Hasan that can be found here: https://medium.com/netscape/mean-app-tutorial-with-angular-4-part-1-18691663ea96
